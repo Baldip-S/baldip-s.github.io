@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bali's Github
 
 You can use the [editor on GitHub](https://github.com/Baldip-S/baldip-s.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
